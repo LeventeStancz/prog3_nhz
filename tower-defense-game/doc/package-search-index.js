@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"algorithms"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"enemy"},{"l":"enums"},{"l":"helpers"},{"l":"main"},{"l":"managers"},{"l":"projectile"},{"l":"scenes"},{"l":"ui_elements"},{"l":"wavemanager"}];updateSearchResults();
